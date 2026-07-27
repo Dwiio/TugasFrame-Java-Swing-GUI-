@@ -9,22 +9,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
-- [Class & Architecture Overview](#-class--architecture-overview)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Compilation & Execution](#compilation--execution)
-- [Screenshots / Demo](#-screenshots--demo)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [Author & License](#-author--license)
-
----
 
 ## 📖 Overview
 
